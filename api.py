@@ -35,7 +35,6 @@ def token_required(f):
 
 
 class ExpenseTypes(Resource):
-    @token_required
     def get(self):
         return newClass.createNewExpenses()
 
