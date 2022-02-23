@@ -1,5 +1,5 @@
 # SOLUTION FOR Python Importing Data Requirements: 1.1
-# Lookup table using Pandas module (OOP Solution)
+# Lookup table using Pandas module (OOP Model)
 
 import sys
 sys.path.append("/")

@@ -1,5 +1,5 @@
 # SOLUTION FOR Python Importing Data Requirements: 1.2
-# Import the payslip items into income vs expense table (OOP Solution)
+# Import the payslip items into income vs expense table (OOP Model)
 
 import pandas as pd
 from config import *
